@@ -4,6 +4,10 @@ namespace AdventureRpg
 {
     public class Monster
     {
+
+        // test
+
+
         /*************/
         /* variables */ //Static objects (int string,bool)
         /*************/
